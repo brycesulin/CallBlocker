@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallBlocker</string>
+    <string name="app_title">
+        <u><b>CSCI 323 - Call Blocker</b></u>
+    </string>
+    <string name="block_all">Block All Calls</string>
+    <string name="block_unsaved">Block Unsaved Contacts</string>
+    <string name="block_from_list">Block From List</string>
+    <string name="cancel_block_all">Cancel All Block</string>
+</resources>
